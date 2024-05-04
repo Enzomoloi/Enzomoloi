@@ -1,7 +1,7 @@
 # Enzo de Moura Silva
 
 <p align="center">
-  <img loading="lazy" src="https://media.giphy.com/media/6lsW1YMkojWrC/giphy.gif" width="200" height="200"/>
+  <img loading="lazy" src="https://media.giphy.com/media/6lsW1YMkojWrC/giphy.gif" width="300" height="300"/>
 </p>
 
 ## Ferramentas e Tecnologias ⚡
