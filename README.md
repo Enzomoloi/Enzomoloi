@@ -1,8 +1,8 @@
 # Enzo de Moura Silva
 
 ## Sempre Aprendendo ⚡
-
-<img loading="lazi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
 
 <div>
 <a href="https://github.com/Enzomoloi">
