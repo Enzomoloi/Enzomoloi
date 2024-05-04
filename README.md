@@ -1,5 +1,9 @@
 # Enzo de Moura Silva
 
+## Sempre Aprendendo ⚡
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <div>
 <a href="https://github.com/Enzomoloi">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzomoloi&layout=compact&langs_count=7&theme=dracula"/>
