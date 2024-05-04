@@ -1,5 +1,7 @@
 # Enzo de Moura Silva
 
+</br>
+
 <p align="center">
   <img loading="lazy" src="https://media.giphy.com/media/6lsW1YMkojWrC/giphy.gif" width="300" height="300"/>
 </p>
