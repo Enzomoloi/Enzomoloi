@@ -33,7 +33,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ## 📫 Contato
 - **E-mail:** enzoomouraa85@gmail.com
-- **LinkedIn:** [Enzo de Moura Silva](https://www.linkedin.com/in/enzo-de-moura-silva)
+- **LinkedIn:** [Enzo de Moura Silva](https://www.linkedin.com/in/enzo-de-moura-silva-57b3202a5/)
 
 
 
